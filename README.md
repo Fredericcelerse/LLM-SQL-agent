@@ -36,6 +36,12 @@ The model will generate an SQL query and execute it on the DuckDB database.
 2. "Which region sold the most laptops?"
 3. "What is the best-selling product in terms of quantity?"
 
+## Try it out
+
+You can try the code in an interactive environment on Google Colab:
+
+[Run on Google Colab](https://colab.research.google.com/drive/13yyrtgAW4zC_uCwiYfmCk6cZ2aWppSgO?usp=sharing)
+
 ## License
 
 This project is licensed under the MIT License.
